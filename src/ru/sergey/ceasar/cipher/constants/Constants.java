@@ -23,7 +23,8 @@ public class Constants {
             'f', 'g', 'h', 'i', 'j',
             'k', 'l', 'm', 'n', 'o',
             'p', 'q', 'r', 's', 't',
-            'u', 'v', 'w', 'x', 'y', 'z');
+            'u', 'v', 'w', 'x', 'y', 'z'
+    );
 
     public static final List<String> COMMON_WORDS = List.of(
             "his", "her", "she",
@@ -31,8 +32,9 @@ public class Constants {
             "for", "one", "must",
             "should", "him", "their",
             "them", "the", "this",
-            "that", "hello", "hi", "some",
-            "because");
+            "that", "hello", "hi",
+            "some", "because", "will"
+    );
 
     public static final String APPEND_KEY = "Brute Force key is: ";
 
