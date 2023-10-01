@@ -33,7 +33,8 @@ public class Constants {
             "should", "him", "their",
             "them", "the", "this",
             "that", "hello", "hi",
-            "some", "because", "will"
+            "some", "because", "will",
+            "have", "but", "also"
     );
 
     public static final String APPEND_KEY = "Brute Force key is: ";
